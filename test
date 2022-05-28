@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T18:00:34.570Z" agent="5.0 (Windows)" etag="0j3YDEu_6iUqy8ljKYkG" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-28T18:07:27.508Z" agent="5.0 (Windows)" etag="zMgn0lqfGUFVaBTs89WW" version="18.1.3" type="github">
   <diagram id="p9XKA1AoPeuaV3eokAXp" name="Page-1">
     <mxGraphModel dx="782" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,24 @@
         </mxCell>
         <mxCell id="E-GiutCdJhneEz8T6fUB-4" value="Future" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E-GiutCdJhneEz8T6fUB-5" value="Respect different banking data formats" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E-GiutCdJhneEz8T6fUB-6" value="Read new account current" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E-GiutCdJhneEz8T6fUB-7" value="Add categorie for payments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E-GiutCdJhneEz8T6fUB-8" value="Split mounthly payments in single files" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E-GiutCdJhneEz8T6fUB-9" value="Show trend of different categories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E-GiutCdJhneEz8T6fUB-10" value="Integrate financial goals" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
